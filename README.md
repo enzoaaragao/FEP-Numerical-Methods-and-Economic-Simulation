@@ -13,7 +13,7 @@ Although GitHub states that the project was done with MATLAB, the software used 
 ---
 
 ## Credits
-The projects could not be done without the assist of professor [Paulo Vasconcelos](https://sigarra.up.pt/fep/en/func_geral.formview?p_codigo=205391) and, mainly, professor [José Matos](https://sigarra.up.pt/fep/en/func_geral.formview?p_codigo=232211) which helped me with the transition probability matrix of the "...Markov_Chains" challenge in project 2.
+The projects could not be done without the assist of Professor [Paulo Vasconcelos](https://sigarra.up.pt/fep/en/func_geral.formview?p_codigo=205391) and, mainly, Professor [José Matos](https://sigarra.up.pt/fep/en/func_geral.formview?p_codigo=232211) which helped me with the transition probability matrix of the "...Markov_Chains" challenge in project 2.
 
 I would also like to thank some colleagues such as Clara Silva, Luís Miranda, Pedro Freitas, and Telmo Teixeira for the fruitfull discussions about the projects.
 
